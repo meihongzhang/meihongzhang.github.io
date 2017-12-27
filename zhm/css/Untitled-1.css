@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top {
+	text-align: center;
+	float: left;
+	list-style-type: none;
+	margin-right: 30px;
+}
+.weni {
+	text-indent: 6em;
+}
+.ww {
+	font-size: 14px;
+}
